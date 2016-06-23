@@ -1,0 +1,2 @@
+# FSM-reducer
+AUTOMAT Project
